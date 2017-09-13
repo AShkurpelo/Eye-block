@@ -1,0 +1,70 @@
+D:\С#\Game1\Game1\bin\Windows\Debug\Game1.exe
+D:\С#\Game1\Game1\bin\Windows\Debug\Game1.pdb
+D:\С#\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.dll
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\С#\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.xml
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\С#\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\С#\Game1\Game1\obj\x86\Debug\Game1.exe
+D:\С#\Game1\Game1\obj\x86\Debug\Game1.pdb
+D:\С#\Game1\Game1\bin\Windows\Debug\Content\dust.png
+D:\С#\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+D:\С#\Game1\Game1\bin\Windows\Debug\Content\eye_1.png
+D:\С#\Game1\Game1\bin\Windows\Debug\Content\eye_2.png
+D:\С#\Game1\Game1\bin\Windows\Debug\Content\eye_3.png
+D:\С#\Game1\Game1\bin\Windows\Debug\Content\eye_4.png
+D:\С#\Game1\Game1\bin\Windows\Debug\Content\health.png
+D:\С#\Game1\Game1\bin\Windows\Debug\Content\time.png
+D:\С#\Game1\Game1\bin\Windows\Debug\Content\ScoreFont.xnb
+D:\С#\Game1 — копия\Game1\obj\x86\Debug\Game1.exe
+D:\С#\Game1 — копия\Game1\obj\x86\Debug\Game1.pdb
+D:\С#\Game1 — копия\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\ScoreFont.xnb
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\dust.png
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\eye_1.png
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\eye_2.png
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\eye_3.png
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\eye_4.png
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\health.png
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\time.png
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Game1.exe
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Game1.pdb
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.dll
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.xml
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\GameNameFont.xnb
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\gameMusic.wma
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\gameMusic.xnb
+D:\С#\Game1 — копия\Game1\bin\Windows\Debug\Content\menuMusic.xnb

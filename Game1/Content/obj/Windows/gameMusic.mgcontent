@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/С#/Game1 — копия/Game1/Content/gameMusic.mp3</SourceFile>
+  <SourceTime>2016-04-28T14:01:25.4058586+03:00</SourceTime>
+  <DestFile>D:/С#/Game1 — копия/Game1/Content/bin/Windows/gameMusic.xnb</DestFile>
+  <DestTime>2016-04-29T10:25:56.9615098+03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2015-04-29T20:14:44+03:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2015-04-29T20:14:44+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/С#/Game1 — копия/Game1/Content/bin/Windows/gameMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
